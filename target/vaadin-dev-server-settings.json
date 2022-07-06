@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/taivu/Documents/PushNotification/push-notification/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/taivu/Documents/PushNotification/push-notification/target/flow-frontend",
+  "staticOutput": "/Users/taivu/Documents/PushNotification/push-notification/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/Users/taivu/Documents/PushNotification/push-notification/target/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "push-notification",
+  "clientServiceWorkerSource": "/Users/taivu/Documents/PushNotification/push-notification/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
